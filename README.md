@@ -4,5 +4,5 @@
 > react is a popular declarative, component based, state driven javascript library for uilding user interfaces
 
 ### React is bases on the following:
-> Components: building blocks for react.<br />
-> React is declarative: we describe how components look like using JSX. 
+> 1. Components: building blocks for react.<br />
+> 2. React is declarative: we describe how components look like using JSX. 
