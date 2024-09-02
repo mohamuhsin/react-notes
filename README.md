@@ -1,6 +1,6 @@
 # React Notes
 
-### what is react:
+### what is React:
 > react is a popular declarative, component based, state driven javascript library for uilding user interfaces
 
 ### React is based on the following:
